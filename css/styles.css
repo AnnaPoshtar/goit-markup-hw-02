@@ -10,12 +10,6 @@ ul{
     list-style: none;
 }
 .visually-hidden {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: 0;
-    padding: 0;
     
     white-space: nowrap;
     clip-path: inset(100%);
@@ -103,12 +97,7 @@ letter-spacing: 0.04em;
 
 }
 .Features-subtitle {
-    display: flex;
-    width: 264px;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 8px;
-    
+
 }
 .Features-item-text {
     color: var(--SLATE, #434455);
@@ -193,23 +182,19 @@ letter-spacing: 0.02em;
 }
 .footer-logo {
     color: var(--IRIS, #4D5AE5);
-font-family: Raleway;
 font-size: 18px;
-font-style: normal;
 font-weight: 700;
-line-height: 21px; /* 116.667% */
-letter-spacing: 0.54px;
+line-height: 1.16; 
+letter-spacing: 0.03em;
 text-transform: uppercase;
 
 }
 .footer-logo-color{
     color: var(--CLOUD, #F4F4FD);
-    font-family: Raleway;
     font-size: 18px;
-    font-style: normal;
     font-weight: 700;
-    line-height: 21px; /* 116.667% */
-    letter-spacing: 0.54px;
+    line-height: 1.16; 
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 .footer-text {
