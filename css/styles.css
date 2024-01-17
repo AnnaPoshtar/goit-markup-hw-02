@@ -16,7 +16,9 @@ ul{
     clip: rect(0 0 0 0);
     overflow: hidden;
   }
-
+  .header {
+font-family: "Raleway"
+  }
 .header-logo {
     color: var(--NAVY-BLUE, #2E2F42);
     font-family: Raleway;
