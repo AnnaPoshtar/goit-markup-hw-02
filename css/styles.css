@@ -1,7 +1,6 @@
 
 body { 
     font-family: "Roboto", sans-serif;
-    font-family: 'Raleway' , sans-serif;
     color: #434455;
     background-color: #FFFFFF
 }
@@ -60,7 +59,6 @@ letter-spacing: 0.02em;
 }
 .header-soc-link {
     color: var(--SLATE, #434455);
-    font-family: Roboto;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -81,7 +79,6 @@ letter-spacing: 0.02em;
 .hero-title {
     color: var(--WHITE, #FFF);
     text-align: center;
-  font-family: Roboto;
     font-size: 56px;
     font-style: normal;
     font-weight: 700;
@@ -110,7 +107,6 @@ letter-spacing: 0.02em;
 }
 .features-subtitle {
     color: var(--NAVY-BLUE, #2E2F42);
-font-family: Roboto;
 font-size: 20px;
 font-style: normal;
 font-weight: 500;
@@ -120,7 +116,6 @@ letter-spacing: 0.02em;
 }
 .features-item-text {
     color: var(--SLATE, #434455);
-font-family: Roboto;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
@@ -134,7 +129,6 @@ background-color: #F4F4FD
 .team-title {
     color: var(--NAVY-BLUE, #2E2F42);
 text-align: center;
-font-family: Roboto;
 font-size: 36px;
 font-style: normal;
 font-weight: 700;
@@ -151,7 +145,6 @@ text-transform: capitalize;
 .team-subtitle {
     color: var(--NAVY-BLUE, #2e2f42);
 text-align: center;
-font-family: Roboto;
 font-size: 20px;
 font-style: normal;
 font-weight: 500;
@@ -163,7 +156,6 @@ font-size: 20px
 .team-text {
     color: var(--SLATE, #434455);
 text-align: center;
-font-family: Roboto;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
@@ -183,7 +175,6 @@ letter-spacing: 0.02em;
 .portfolio-title {
     color: var(--NAVY-BLUE, #2E2F42);
 text-align: center;
-font-family: Roboto;
 font-size: 36px;
 font-style: normal;
 font-weight: 700;
@@ -193,7 +184,6 @@ text-transform: capitalize;
 }
 .portfolio-subtitle {
     color: var(--NAVY-BLUE, #2E2F42);
-    font-family: Roboto;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
@@ -202,7 +192,6 @@ text-transform: capitalize;
 }
 .portfolio-text {
     color: var(--SLATE,  #434455);
-    font-family: Roboto;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
