@@ -20,7 +20,7 @@ ul{
   .header {
   }
 .header-logo {
-    color: var(--IRIS, #4D5AE5);
+    color: #4D5AE5;
 font-family: Raleway;
 font-size: 18px;
 font-style: normal;
@@ -32,7 +32,7 @@ font-style: normal
 }
 
 .header-logo-color{
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: #2E2F42;
 font-family: Raleway;
 font-size: 18px;
 font-style: normal;
@@ -42,7 +42,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 }
 .header-menu-link{
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: #2E2F42;
 font-family: Roboto;
 font-size: 16px;
 font-style: normal;
@@ -54,10 +54,10 @@ letter-spacing: 0.02em;
     color: #404bbf
 }
 .header {
-    background: var(--NAVY-BLUE, #2E2F42);
+   background-color: #2E2F42;
 }
 .header-soc-link {
-    color: var(--SLATE, #434455);
+    color: #434455;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -73,7 +73,7 @@ letter-spacing: 0.02em;
 }
 
 .hero-title {
-    color: var(--WHITE, #FFF);
+    color: #FFF;
     text-align: center;
     font-size: 56px;
     font-style: normal;
@@ -82,7 +82,7 @@ letter-spacing: 0.02em;
     letter-spacing: 0.02em;
 }
 .hero-order-btn {
-    color: var(--WHITE, #FFF);
+    color:  #FFF;
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
@@ -95,7 +95,7 @@ letter-spacing: 0.02em;
     background: #FFFFFF;
 }
 .features-subtitle {
-    color: var(--NAVY-BLUE, #2E2F42);
+    color:  #2E2F42;
 font-size: 20px;
 font-style: normal;
 font-weight: 500;
@@ -104,7 +104,7 @@ letter-spacing: 0.02em;
 
 }
 .features-item-text {
-    color: var(--SLATE, #434455);
+    color:  #434455;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
@@ -116,7 +116,7 @@ background-color: #F4F4FD
 
 }
 .team-title {
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: #2E2F42;
 text-align: center;
 font-size: 36px;
 font-style: normal;
@@ -149,7 +149,7 @@ line-height: 1.50;
 letter-spacing: 0.02em;
 }
 .team-img {
-    background: url(<path-to-image>), lightgray -97.034px -0.927px / 181.897% 251.37% no-repeat;
+    background-color: lightgray;
 }
 .portfolio{
     background-color: #FFFFFF;
@@ -184,9 +184,10 @@ text-transform: capitalize;
     background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 }
 .footer {
-    background: var(--NAVY-BLUE, #2E2F42);
+    background: #2E2F42;
 }
 .footer-logo {
+    color:  #4d5ae5;
 font-family: Raleway;
 font-size: 18px;
 font-style: normal;
