@@ -198,7 +198,7 @@ text-transform: uppercase;
 }
 
 .footer-logo-color{
-    color: var(--IRIS, #f4f4fd);
+    color: var(--IRIS,  #4d5ae5);
     font-family: Raleway;
     font-size: 18px;
     font-style: normal;
