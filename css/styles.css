@@ -143,10 +143,10 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 }
 .team-list {
-
+    background-color: #FFFFFF
 }
 .team-item {
-    background-color: #FFFFFF
+
 }
 .team-subtitle {
     color: var(--NAVY-BLUE, #2e2f42);
@@ -175,6 +175,10 @@ letter-spacing: 0.02em;
 }
 .portfolio{
     background: #FFF;
+}
+.portfolio-list {
+}
+.portfolio-item {
 }
 .portfolio-title {
     color: var(--NAVY-BLUE, #2E2F42);
