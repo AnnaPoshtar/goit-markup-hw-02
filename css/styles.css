@@ -40,7 +40,11 @@ text-transform: uppercase;
 }
 .header-menu-link{
     color: var(--NAVY-BLUE, #2E2F42);
+<<<<<<< HEAD
 font-family: Roboto;
+=======
+    font-family: "Raleway"
+>>>>>>> 0686d03fc1eea6f029f28d9e6a89e6b0a111a43a
 font-size: 16px;
 font-style: normal;
 font-weight: 500;
@@ -63,6 +67,7 @@ letter-spacing: 0.02em;
     line-height: 1.50; 
     letter-spacing: 0.02em;
 }
+
 .header-soc-link:hover,.header-soc-link:focus ,.header-soc-link :active {
     color: #4D5AE5;   
 }
