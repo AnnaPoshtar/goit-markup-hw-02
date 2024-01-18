@@ -99,16 +99,16 @@ letter-spacing: 0.02em;
     background-color:#4D5AE5
 }
 /*---------------------------------------------*/
-.Features {
+.features {
     background: #FFFFFF;
 }
-.Features-list {
+.features-list {
 
 }
-.Features-item {
+.features-item {
 
 }
-.Features-subtitle {
+.features-subtitle {
     color: var(--NAVY-BLUE, #2E2F42);
 font-family: Roboto;
 font-size: 20px;
@@ -118,7 +118,7 @@ line-height: 1.20;
 letter-spacing: 0.02em;
 
 }
-.Features-item-text {
+.features-item-text {
     color: var(--SLATE, #434455);
 font-family: Roboto;
 font-size: 16px;
@@ -127,11 +127,11 @@ font-weight: 400;
 line-height: 1.50;
 letter-spacing: 0.02em;
 }
-.Team {
+.team {
 background-color: #F4F4FD
 
 }
-.Team-title {
+.team-title {
     color: var(--NAVY-BLUE, #2E2F42);
 text-align: center;
 font-family: Roboto;
@@ -142,12 +142,12 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 }
-.Team-list {
+.team-list {
 
 }
-.Team-item {
+.team-item {
 }
-.Team-subtitle {
+.team-subtitle {
     color: var(--NAVY-BLUE, #2E2F42);
 text-align: center;
 font-family: Roboto;
@@ -157,7 +157,7 @@ font-weight: 500;
 line-height: 1.20; 
 letter-spacing: 0.02em;
 }
-.Team-text {
+.team-text {
     color: var(--SLATE, #434455);
 text-align: center;
 font-family: Roboto;
@@ -167,13 +167,13 @@ font-weight: 400;
 line-height: 1.50; 
 letter-spacing: 0.02em;
 }
-.Team-img {
+.team-img {
     background: url(<path-to-image>), lightgray -97.034px -0.927px / 181.897% 251.37% no-repeat;
 }
-.Portfolio{
+.portfolio{
     background: #FFF;
 }
-.Portfolio-title {
+.portfolio-title {
     color: var(--NAVY-BLUE, #2E2F42);
 text-align: center;
 font-family: Roboto;
@@ -184,7 +184,7 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 }
-.Portfolio-subtitle {
+.portfolio-subtitle {
     color: var(--NAVY-BLUE, #2E2F42);
     font-family: Roboto;
     font-size: 20px;
@@ -193,7 +193,7 @@ text-transform: capitalize;
     line-height: 1.20; 
     letter-spacing: 0.02em;
 }
-.Portfolio-text {
+.portfolio-text {
     color: var(--SLATE, #434455);
     font-family: Roboto;
     font-size: 16px;
@@ -202,7 +202,7 @@ text-transform: capitalize;
     line-height: 1.50; 
     letter-spacing: 0.02em;
 }
-.Portfolio-img {
+.portfolio-img {
     background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 }
 .footer {
