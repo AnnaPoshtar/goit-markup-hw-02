@@ -216,6 +216,16 @@ text-transform: capitalize;
     background: var(--NAVY-BLUE, #2E2F42);
 }
 .footer-logo {
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.17; 
+letter-spacing: 0.03em;
+text-transform: uppercase;
+}
+
+.footer-logo-color{
     color: var(--IRIS, #f4f4fd);
     font-family: Raleway;
     font-size: 18px;
@@ -224,17 +234,6 @@ text-transform: capitalize;
     line-height: 1.17; 
     letter-spacing: 0.03em;
     text-transform: uppercase;
-
-}
-.footer-logo-color{
-    color: var(--CLOUD, #4d5ae5);
-font-family: Raleway;
-font-size: 18px;
-font-style: normal;
-font-weight: 700;
-line-height: 1.17; 
-letter-spacing: 0.03em;
-text-transform: uppercase;
 }
 .footer-text {
     color: var(--CLOUD, #F4F4FD);
