@@ -174,7 +174,7 @@ letter-spacing: 0.02em;
     background: url(<path-to-image>), lightgray -97.034px -0.927px / 181.897% 251.37% no-repeat;
 }
 .portfolio{
-    background: #FFF;
+    background-color: #FFFFFF;
 }
 .portfolio-list {
 }
@@ -201,7 +201,7 @@ text-transform: capitalize;
     letter-spacing: 0.02em;
 }
 .portfolio-text {
-    color: var(--SLATE, #434455);
+    color: var(--SLATE,  #434455);
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
