@@ -2,6 +2,7 @@
 body { 
     font-family: "Roboto", sans-serif;
     background-color: #FFFFFF ;
+    color: #434455
 }
 a{
     text-decoration: none;
@@ -40,11 +41,7 @@ text-transform: uppercase;
 }
 .header-menu-link{
     color: var(--NAVY-BLUE, #2E2F42);
-<<<<<<< HEAD
 font-family: Roboto;
-=======
-    font-family: "Raleway"
->>>>>>> 0686d03fc1eea6f029f28d9e6a89e6b0a111a43a
 font-size: 16px;
 font-style: normal;
 font-weight: 500;
