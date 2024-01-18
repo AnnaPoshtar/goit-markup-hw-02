@@ -17,7 +17,6 @@ ul{
     overflow: hidden;
   }
   .header {
-font-family: "Raleway" sans-serif;
   }
 .header-logo {
     color: var(--NAVY-BLUE, #2e2f42);
@@ -37,6 +36,7 @@ font-family: "Raleway" sans-serif;
 }
 .header-menu-link{
     color: var(--NAVY-BLUE, #2E2F42);
+    font-family: "Raleway"
 font-size: 16px;
 line-height: 1.50;
 letter-spacing: 0.02em;
@@ -46,10 +46,11 @@ letter-spacing: 0.02em;
     color: #4D5AE5;   
 }
 .header {
-
+font-family: "Raleway"
 }
 .header-soc-link {
     color: var(--SLATE, #434455);
+    font-family: "Raleway"
 font-size: 16px;
 line-height: 1.50; 
 letter-spacing: 0.02em;
