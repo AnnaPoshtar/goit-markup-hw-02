@@ -208,7 +208,7 @@ text-transform: capitalize;
     background: var(--NAVY-BLUE, #2E2F42);
 }
 .footer-logo {
-    color: var(--IRIS, #4D5AE5);
+    color: var(--IRIS, #f4f4fd);
     font-family: Raleway;
     font-size: 18px;
     font-style: normal;
@@ -219,7 +219,7 @@ text-transform: capitalize;
 
 }
 .footer-logo-color{
-    color: var(--CLOUD, #F4F4FD);
+    color: var(--CLOUD, #4d5ae5);
 font-family: Raleway;
 font-size: 18px;
 font-style: normal;
