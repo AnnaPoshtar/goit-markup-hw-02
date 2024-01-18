@@ -72,7 +72,7 @@ letter-spacing: 0.02em;
 /*---------------------------------------------*/
 
 .hero {
-    background: var(--NAVY-BLUE, #2E2F42);
+    background-color: #4D5AE5
 }
 
 .hero-title {
