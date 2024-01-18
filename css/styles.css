@@ -50,7 +50,7 @@ letter-spacing: 0.02em;
 }
 
 .header-menu-link:hover,.header-menu-link:focus ,.header-menu-link :active {
-    color: #4D5AE5;   
+    color: #404bbf
 }
 .header {
     background: var(--NAVY-BLUE, #2E2F42);
@@ -66,13 +66,13 @@ letter-spacing: 0.02em;
 }
 
 .header-soc-link:hover,.header-soc-link:focus ,.header-soc-link :active {
-    color: #4D5AE5;   
+    color: #404bbf;   
 }
 
 /*---------------------------------------------*/
 
 .hero {
-   background-color:  #434455;
+   background-color:  #2e2f42;
 }
 
 .hero-title {
@@ -86,7 +86,7 @@ letter-spacing: 0.02em;
     letter-spacing: 0.02em;
 }
 .hero-order-btn {
-    color: var(--WHITE, #FFF);
+    color: var(--WHITE, #4D5AE5);
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
@@ -96,7 +96,7 @@ letter-spacing: 0.02em;
 }
 /*---------------------------------------------*/
 .Features {
-    background: #FFF;
+    background: #FFFFFF;
 }
 .Features-list {
 
