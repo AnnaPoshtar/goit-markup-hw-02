@@ -17,13 +17,12 @@ ul{
     overflow: hidden;
   }
   .header {
-font-family: "Raleway"
+font-family: "Raleway" sans-serif;
   }
 .header-logo {
     color: var(--NAVY-BLUE, #2e2f42);
     font-family: Raleway;
     font-size: 18px;
-    font-weight: 700;
     line-height: 1.17; 
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -32,7 +31,6 @@ font-family: "Raleway"
     color: var(--IRIS, #4d5ae5);
     font-family: Raleway;
     font-size: 18px;
-    font-weight: 700;
     line-height: 1.16; 
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -40,7 +38,6 @@ font-family: "Raleway"
 .header-menu-link{
     color: var(--NAVY-BLUE, #2E2F42);
 font-size: 16px;
-font-weight: 500;
 line-height: 1.50;
 letter-spacing: 0.02em;
 }
@@ -54,8 +51,6 @@ letter-spacing: 0.02em;
 .header-soc-link {
     color: var(--SLATE, #434455);
 font-size: 16px;
-font-style: normal;
-font-weight: 400;
 line-height: 1.50; 
 letter-spacing: 0.02em;
 }
@@ -73,16 +68,13 @@ letter-spacing: 0.02em;
     color: var(--WHITE, #FFF);
 text-align: center;
 font-size: 56px;
-font-weight: 700;
 line-height: 1.07; 
 letter-spacing: 0.02em;
 }
 .hero-order-btn {
     color: var(--WHITE, #FFF);
-font-family: Roboto;
+     font-family: Roboto;
 font-size: 16px;
-font-style: normal;
-font-weight: 500;
 line-height: 1.50; 
 letter-spacing: 0.04em;
 }
@@ -102,7 +94,6 @@ letter-spacing: 0.04em;
 .Features-item-text {
     color: var(--SLATE, #434455);
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.50; 
     letter-spacing: 0.02em;
 }
@@ -114,7 +105,6 @@ letter-spacing: 0.04em;
     color: var(--NAVY-BLUE, #2E2F42);
     text-align: center;
     font-size: 36px;
-    font-weight: 700;
     line-height: 1.11; 
     letter-spacing: 0.02em;
     text-transform: capitalize;
@@ -128,8 +118,6 @@ letter-spacing: 0.04em;
     color: var(--NAVY-BLUE, #2E2F42);
     text-align: center;
     font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
     line-height: 1.20;
     letter-spacing: 0.02em;
 }
@@ -137,8 +125,6 @@ letter-spacing: 0.04em;
     color: var(--SLATE, #434455);
     text-align: center;
     font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
     line-height: 1.50; 
     letter-spacing: 0.02em;
 }
@@ -154,8 +140,6 @@ letter-spacing: 0.04em;
     color: var(--NAVY-BLUE, #2E2F42);
 text-align: center;
 font-size: 36px;
-font-style: normal;
-font-weight: 700;
 line-height: 1.11; 
 letter-spacing: 0.02em;
 text-transform: capitalize;
@@ -163,14 +147,12 @@ text-transform: capitalize;
 .Portfolio-subtitle {
     color: var(--NAVY-BLUE, #2E2F42);
     font-size: 20px;
-    font-weight: 500;
     line-height: 1.20; 
     letter-spacing: 0.02em;
 }
 .Portfolio-text {
     color: var(--SLATE, #434455);
 font-size: 16px;
-font-weight: 400;
 line-height: 1.50;
 letter-spacing: 0.02em;
 }
@@ -183,7 +165,6 @@ letter-spacing: 0.02em;
 .footer-logo {
     color: var(--IRIS, #4D5AE5);
 font-size: 18px;
-font-weight: 700;
 line-height: 1.16; 
 letter-spacing: 0.03em;
 text-transform: uppercase;
@@ -192,7 +173,6 @@ text-transform: uppercase;
 .footer-logo-color{
     color: var(--CLOUD, #F4F4FD);
     font-size: 18px;
-    font-weight: 700;
     line-height: 1.17; 
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -200,7 +180,6 @@ text-transform: uppercase;
 .footer-text {
     color: var(--CLOUD, #F4F4FD);
 font-size: 16px;
-font-weight: 400;
 line-height: 1.50; 
 letter-spacing: 0.02em;
 }
