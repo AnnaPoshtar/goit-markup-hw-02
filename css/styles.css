@@ -1,8 +1,8 @@
 
 body { 
     font-family: "Roboto", sans-serif;
-    background-color: #FFFFFF ;
     color: #434455
+    background-color: #FFFFFF ;
 }
 a{
     text-decoration: none;
@@ -78,7 +78,7 @@ letter-spacing: 0.02em;
 .hero-title {
     color: var(--WHITE, #FFF);
     text-align: center;
-font-family: "Roboto";
+  font-family: Roboto;
     font-size: 56px;
     font-style: normal;
     font-weight: 700;
