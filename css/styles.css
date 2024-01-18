@@ -1,6 +1,7 @@
 
 body { 
     font-family: "Roboto", sans-serif;
+    font-family: 'Raleway' , sans-serif
     background-color: #FFFFFF ;
     color: #434455
 }
@@ -20,7 +21,7 @@ ul{
   .header {
   }
 .header-logo {
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: var(--IRIS, #4D5AE5);
 font-family: Raleway;
 font-size: 18px;
 font-style: normal;
@@ -29,8 +30,9 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 }
+
 .header-logo-color{
-    color: var(--IRIS, #4D5AE5);
+    color: var(--NAVY-BLUE, #2E2F42);
 font-family: Raleway;
 font-size: 18px;
 font-style: normal;
