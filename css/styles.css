@@ -76,7 +76,12 @@ letter-spacing: 0.02em;
     line-height: 1.50; 
     letter-spacing: 0.02em;
 }
-
+.header-soc-link:hover{
+    color: #404bbf;
+}
+.header-soc-link:focus {
+    color: #404bbf;
+}
 
 .hero {
     background-color: #2e2f42 ;
