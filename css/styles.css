@@ -1,6 +1,7 @@
 
 body { 
     font-family: "Roboto", sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF
 }
@@ -88,7 +89,7 @@ letter-spacing: 0.02em;
     font-weight: 500;
     line-height: 1.50; 
     letter-spacing: 0.04em;
-    background-color:#4D5AE5
+    background-color: #404BBF
 }
 .features {
 }
