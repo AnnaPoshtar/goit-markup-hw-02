@@ -68,7 +68,7 @@ letter-spacing: 0.02em;
 .header {
 }
 .header-soc-link {
-    color: #404bbf;
+    color:  #434455;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -83,7 +83,6 @@ letter-spacing: 0.02em;
     background-color: #404BBF;
 }
 .hero {
-    background-color:  #2e2f42 ;
 }
 
 .hero-title {
