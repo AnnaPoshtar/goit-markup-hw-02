@@ -179,6 +179,8 @@ text-transform: capitalize;
     letter-spacing: 0.02em;
 }
 .portfolio-img {
+    width: 360px;
+height: 300px;
     background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 }
 .footer {
