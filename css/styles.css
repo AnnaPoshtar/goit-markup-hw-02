@@ -58,9 +58,13 @@ font-weight: 500;
 line-height: 1.50; 
 letter-spacing: 0.02em;
 }
-.header-menu-link:hover,.header-menu-link:focus ,.header-menu-link :active {
-    background-color: #404BBF ;
+.header-menu-link:hover{
+    background-color: #404BBF
 }
+.header-menu-link:focus {
+    background-color: #404BBF
+}
+
 .header {
 }
 .header-soc-link {
