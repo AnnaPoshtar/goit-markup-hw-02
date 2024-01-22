@@ -124,7 +124,7 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 }
 .team-list {
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
 }
 .team-subtitle {
     color: var(--NAVY-BLUE, #2e2f42);
