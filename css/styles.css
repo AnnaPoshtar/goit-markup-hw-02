@@ -107,6 +107,9 @@ letter-spacing: 0.02em;
 .hero-order-btn:focus {
     background-color: #404BBF;
 }
+.hero-order-btn:active{
+    cursor: pointer 
+}
 .features {
 }
 .features-subtitle {
