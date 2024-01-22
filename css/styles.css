@@ -57,7 +57,6 @@ font-style: normal;
 font-weight: 500;
 line-height: 1.50; 
 letter-spacing: 0.02em;
-font-style: normal;
 }
 .header-menu-link:hover,.header-menu-link:focus ,.header-menu-link :active {
     color: #434455 ;
@@ -119,7 +118,7 @@ line-height: 1.50;
 letter-spacing: 0.02em;
 }
 .team {
-    background-color: #F4F4FD;
+    background-color: #FFFFFF ;
 
 }
 .team-title {
@@ -133,7 +132,7 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 }
 .team-list {
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
 }
 .team-subtitle {
     color: var(--NAVY-BLUE, #2e2f42);
