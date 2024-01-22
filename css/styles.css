@@ -77,10 +77,10 @@ letter-spacing: 0.02em;
     letter-spacing: 0.02em;
 }
 .header-soc-link:hover{
-    color: #404bbf;
+    color: #404bbf ;
 }
 .header-soc-link:focus {
-    color: #404bbf;
+    color: #404bbf ;
 }
 
 .hero {
@@ -148,6 +148,9 @@ text-transform: capitalize;;
 }
 .team-list {
     background-color: #FFFF;
+}
+.team-item {
+    background-color: #FFFFFF
 }
 .team-subtitle {
     color: var(--NAVY-BLUE, #2e2f42);
