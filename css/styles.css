@@ -106,6 +106,12 @@ letter-spacing: 0.02em;
     letter-spacing: 0.04em;
     background-color: #4D5AE5;
 }
+.header-soc-link:hover{
+    background-color: #404BBF;
+}
+.header-soc-link:focus {
+    background-color: #404BBF;
+}
 .features {
 }
 .features-subtitle {
