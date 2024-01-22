@@ -77,12 +77,7 @@ letter-spacing: 0.02em;
     letter-spacing: 0.02em;
 }
 
-.header-soc-link:hover{
-    background-color: #404BBF;
-}
-.header-soc-link:focus {
-    background-color: #404BBF;
-}
+
 .hero {
     background-color: #2e2f42 ;
 }
