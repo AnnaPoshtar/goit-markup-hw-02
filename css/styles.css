@@ -59,10 +59,10 @@ line-height: 1.50;
 letter-spacing: 0.02em;
 }
 .header-menu-link:hover{
-    background-color: #404BBF;
+    color: #404bbf;
 }
 .header-menu-link:focus {
-    background-color: #404BBF;
+    color: #404bbf;
 }
 
 .header {
