@@ -100,15 +100,13 @@ letter-spacing: 0.02em;
     line-height: 1.50; 
     letter-spacing: 0.04em;
     background-color: #4D5AE5;
+    cursor: pointer ;
 }
 .hero-order-btn:hover{
     background-color: #404BBF;
 }
 .hero-order-btn:focus {
     background-color: #404BBF;
-}
-.hero-order-btn:active{
-    cursor: pointer 
 }
 .features {
 }
