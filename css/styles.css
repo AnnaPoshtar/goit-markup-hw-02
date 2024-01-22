@@ -102,10 +102,10 @@ letter-spacing: 0.02em;
     background-color: #4D5AE5;
 }
 .hero-order-btn:hover{
-    background-color: #404BBF;
+    color: #404bbf;
 }
 .hero-order-btn:focus {
-    background-color: #404BBF;
+    color: #404bbf;
 }
 .features {
 }
