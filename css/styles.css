@@ -59,10 +59,10 @@ line-height: 1.50;
 letter-spacing: 0.02em;
 }
 .header-menu-link:hover{
-    background-color: #404BBF
+    background-color: #404BBF;
 }
 .header-menu-link:focus {
-    background-color: #404BBF
+    background-color: #404BBF;
 }
 
 .header {
@@ -76,8 +76,11 @@ letter-spacing: 0.02em;
     letter-spacing: 0.02em;
 }
 
-.header-soc-link:hover,.header-soc-link:focus ,.header-soc-link :active {
-    color: #404BBF ;   
+.header-soc-link:hover{
+    background-color: #404BBF;
+}
+.header-soc-link:focus {
+    background-color: #404BBF;
 }
 .hero {
     background-color:  #2e2f42 ;
