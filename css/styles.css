@@ -33,7 +33,6 @@ font-style: normal
 
 .header-logo-color{
     color: #2E2F42;
-font-family: Raleway;
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
@@ -54,7 +53,6 @@ letter-spacing: 0.02em;
     color: #404bbf
 }
 .header {
-    background-color: #404BBF;
 }
 .header-soc-link {
     color: #434455;
@@ -92,7 +90,6 @@ letter-spacing: 0.02em;
     background-color:#4D5AE5
 }
 .features {
-    background-color: #404BBF;
 }
 .features-subtitle {
     color:  #2E2F42;
