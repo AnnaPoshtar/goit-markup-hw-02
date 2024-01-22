@@ -21,7 +21,7 @@ ul{
   .header {
   }
 .header-logo {
-    color:    #2e2f42;
+    color:    #4d5ae5;
  font-family: "Raleway", sans-serif;
 font-size: 18px;
 font-style: normal;
@@ -101,10 +101,10 @@ letter-spacing: 0.02em;
     letter-spacing: 0.04em;
     background-color: #4D5AE5;
 }
-.header-soc-link:hover{
+.hero-order-btn:hover{
     background-color: #404BBF;
 }
-.header-soc-link:focus {
+.hero-order-btn:focus {
     background-color: #404BBF;
 }
 .features {
