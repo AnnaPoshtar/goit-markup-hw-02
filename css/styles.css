@@ -63,7 +63,9 @@ letter-spacing: 0.02em;
 .header-menu-link:focus {
     color: #404bbf;
 }
-
+.header-soc{
+    font-style:normal;
+}
 .header {
 
 }
