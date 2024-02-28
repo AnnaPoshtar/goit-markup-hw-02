@@ -71,6 +71,9 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 }
+.header-logo{
+    margin-right: 76px;
+}
 .header-logo-color{
     color: #2e2f42 ;
     font-family: "Raleway", sans-serif;
