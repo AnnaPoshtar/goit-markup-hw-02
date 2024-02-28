@@ -54,6 +54,16 @@ address{
 .hero{
     padding: 188px 0 188px;
 }
+.visually-hidden{
+    max-width: 496px;
+}
+.hero-order-btn{
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    border-radius: 4px; 
+}
 .visually-hidden {
     
     white-space: nowrap;
