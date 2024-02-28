@@ -71,6 +71,10 @@ position: absolute;
     gap: 24px;
 
 }
+.features-list{
+    display: flex;
+    gap: 24px; 
+}
 .portfolio-title{
     margin-bottom: 8px;
 }
