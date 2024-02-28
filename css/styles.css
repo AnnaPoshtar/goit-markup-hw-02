@@ -64,12 +64,13 @@ address{
 }
 .team-item-top{
     width: calc((100% - 72px) / 4);
+    margin-bottom: 8px;
 }
 .features-subtitle{
     max-width: 496px; 
 }
 .team{
-    padding: 120px 0 120px ;
+    padding: 120px 0 120px;
 }
 .hero-order-btn{
     display: block;
