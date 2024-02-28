@@ -31,6 +31,10 @@ address{
     margin-right: auto;
     margin-left:  auto;
 }
+.hero-container{
+    display: flex;
+    align-items: center;
+}
 .visually-hidden {
     
     white-space: nowrap;
