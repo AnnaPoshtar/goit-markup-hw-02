@@ -103,6 +103,9 @@ position: absolute;
 .team-title{
     margin-bottom: 72px;
 }
+.container-team{
+    padding: 32px 0;
+}
 .team-item-top{
     width: calc((100% - 72px) / 4);
     margin-bottom: 8px;
