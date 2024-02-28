@@ -54,8 +54,8 @@ address{
 .hero{
     padding: 188px 0 188px;
 }
-.visually-hidden{
-    max-width: 496px;
+.features-subtitle{
+    max-width: 496px; 
 }
 .hero-order-btn{
     display: block;
