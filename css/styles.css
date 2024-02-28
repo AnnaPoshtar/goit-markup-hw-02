@@ -47,6 +47,9 @@ address{
     display: flex;
     align-items: center;
 }
+.features{
+    padding: 120px 0 120px;
+}
 .header-menu-list{
     display: flex;
     gap: 40px;
