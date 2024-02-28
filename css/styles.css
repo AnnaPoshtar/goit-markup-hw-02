@@ -47,6 +47,9 @@ address{
     display: flex;
     align-items: center;
 }
+.team-img{
+    border-radius: 0px 0px 4px 4px;
+}
 .features{
     padding: 120px 0 120px;
 }
