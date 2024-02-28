@@ -50,7 +50,8 @@ address{
 
   }
   .header-navigation{
-    border-bottom: 1px solid #e7e9fc;
+    display: flex;
+    align-items: center; 
   }
   
 .header-logo {
@@ -80,6 +81,10 @@ font-style: normal;
 font-weight: 500;
 line-height: 1.50;
 letter-spacing: 0.02em;
+}
+.header-menu-item{
+    display: flex;
+    gap: 40px;
 }
 .header-menu-link{
     color:  #2e2f42;
