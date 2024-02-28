@@ -47,8 +47,12 @@ address{
     padding-bottom: 188px;
 }
   .header {
-    border-bottom: 1px solid #e7e9fc
+
   }
+  .header-navigation{
+    border-bottom: 1px solid #e7e9fc;
+  }
+  
 .header-logo {
     color:    #4d5ae5;
  font-family: "Raleway", sans-serif;
