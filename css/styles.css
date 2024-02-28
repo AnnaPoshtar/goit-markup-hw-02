@@ -52,7 +52,8 @@ address{
     padding-bottom: 188px;
 }
   .header {
-
+    display: flex;
+    align-items: center; 
   }
   .header-navigation{
     display: flex;
