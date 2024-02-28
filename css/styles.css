@@ -92,6 +92,10 @@ font-weight: 500;
 line-height: 1.50;
 letter-spacing: 0.02em;
 }
+.header-menu-list{
+    display: flex;
+    gap: 40px;
+}
 .header-menu-item{
     display: flex;
     gap: 40px;
