@@ -36,6 +36,9 @@ address{
     width: 1158px;
 
 }
+.img{
+    display: block
+}
 .hero-container{
     display: flex;
     align-items: center;
