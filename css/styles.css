@@ -38,6 +38,10 @@ address{
     clip: rect(0 0 0 0);
     overflow: hidden;
   }
+  .section {
+    padding-top: 188px;
+    padding-bottom: 188px;
+}
   .header {
     border-bottom: 1px solid #e7e9fc
   }
