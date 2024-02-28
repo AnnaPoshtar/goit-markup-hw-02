@@ -54,9 +54,7 @@ address{
 .hero{
     padding: 188px 0 188px;
 }
-.visually-hidden{
-
-}
+visually-hidden
 .team-list{
     display: flex;
     gap: 24px;
