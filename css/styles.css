@@ -47,6 +47,9 @@ address{
     display: flex;
     align-items: center;
 }
+.header-logic{
+    padding: 24px 0 24px;
+}
 .page-header-conteiner{
     display: flex;
     border-bottom: 1px solid #e7e9fc;
