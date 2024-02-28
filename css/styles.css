@@ -103,7 +103,7 @@ position: absolute;
 .team-title{
     margin-bottom: 72px;
 }
-.portfolio-jist{
+.portfolio-list{
     display: flex;
     flex-wrap: wrap;
     column-gap: 24px;
