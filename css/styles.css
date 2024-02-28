@@ -43,6 +43,13 @@ address{
     display: flex;
     align-items: center;
 }
+.header-menu-list{
+    display: flex;
+    gap: 40px;
+}
+.hero{
+    padding: 188px 0 188px;
+}
 .visually-hidden {
     
     white-space: nowrap;
