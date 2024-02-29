@@ -124,6 +124,7 @@ position: absolute;
 }
 .team-title{
     margin-bottom: 72px;
+    margin-bottom: 8px;
 }
 .portfolio-list{
     display: flex;
@@ -132,6 +133,7 @@ position: absolute;
     row-gap: 48px;
 }
 .container-team{
+    padding: 32px 0;
     padding: 32px 0;
 }
 .team-item-top{
