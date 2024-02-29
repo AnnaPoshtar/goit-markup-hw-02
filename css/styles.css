@@ -166,8 +166,9 @@ position: absolute;
 }
 .features-subtitle{
     max-width: 496px;
-    margin-bottom: 8px; 
+
     width: calc((100% - 72px) / 4);
+    margin-bottom: 72px; 
 }
 .footer-logo-color{
     display: inline-block;
