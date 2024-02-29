@@ -134,6 +134,8 @@ position: absolute;
 }
 .container-team{
     padding: 32px 0 32px;
+    padding-top: 32px; 
+     padding-bottom: 32px;
 }
 .portfolio{
     padding-top: 120px; padding-bottom: 120px; 
@@ -167,7 +169,7 @@ position: absolute;
 .features-subtitle{
     max-width: 496px;
 
-    width: calc((100% - 72px) / 4);
+    width: calc((100% - 3 * 24px) / 4);
     margin-bottom: 72px; 
 }
 .footer-logo-color{
