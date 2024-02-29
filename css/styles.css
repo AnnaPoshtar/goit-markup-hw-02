@@ -99,6 +99,9 @@ position: absolute;
     gap: 24px;
 
 }
+.features-subtitle{
+    margin-bottom: 8px;
+}
 .header-menu-list{
     display: flex;
     gap: 40px;
@@ -113,6 +116,7 @@ position: absolute;
 }
 .features-title{
     margin-bottom: 8px;
+
 }
 .features-item{
     margin-bottom: 72px;
