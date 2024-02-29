@@ -126,6 +126,10 @@ position: absolute;
     margin-bottom: 72px;
     margin-bottom: 8px;
 }
+.team-subtitle{
+    margin-bottom: 72px;
+    margin-bottom: 8px;
+}
 .portfolio-list{
     display: flex;
     flex-wrap: wrap;
