@@ -108,7 +108,14 @@ position: absolute;
 }
 .portfolio-title{
     margin-bottom: 8px;
+    margin-bottom: 72px;
  
+}
+.portfolio-subtitle{
+    margin-bottom: 72px;
+}
+.team-subtitle{
+    margin-bottom: 72px;  
 }
 .container-portfolio{
     padding: 32px 16px;
