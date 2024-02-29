@@ -140,6 +140,9 @@ position: absolute;
     border-top: none;
     margin-bottom: 8px;
 }
+.header-logo{
+    padding: 24px 0 24px;
+}
 .container-team{
     padding: 32px 0 32px;
     padding-top: 32px; 
