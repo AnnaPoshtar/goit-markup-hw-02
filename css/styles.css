@@ -19,6 +19,30 @@
     margin-bottom: 0;
     padding-left: 0;
 }
+a {
+    text-decoration: none;
+  }
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    list-style: none;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p {
+    margin: 0;
+  }
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
 .button{
     cursor: pointer;
 }
@@ -170,9 +194,11 @@ position: absolute;
     padding: 32px 0;
 }
 .team-item-top{
-    width: calc((100% - 72px) / 4);
     margin-bottom: 8px;
     border-radius: 0px 0px 4px 4px;
+}
+.team-img{
+    width: calc((100% - 72px) / 4);
 }
 .portfolio-title{
     margin-bottom: 8px;
@@ -198,6 +224,7 @@ position: absolute;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
+    width: calc((100% - 72px) / 4);
 }
 .portfolio-subtitle{
     margin-bottom: 72px; 
