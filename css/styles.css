@@ -144,10 +144,12 @@ a {
     margin-bottom: 72px;
 }
 .portfolio-list{
-    width: calc((100% - 48px) / 3);
 }
 .portfolio-img{
-    width: calc((100% - 48px) / 3);
+
+}
+.portfolio-subtitle{
+    width: calc((100% - 72px) / 4);
 }
 .team-img{
     border-radius: 0px 0px 4px 4px;
