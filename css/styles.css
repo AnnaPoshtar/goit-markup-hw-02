@@ -141,6 +141,9 @@ position: absolute;
     margin-bottom: 8px;
     border-radius: 0px 0px 4px 4px;
 }
+.portfolio-subtitle{
+    margin-bottom: 72px; 
+}
 .features-subtitle{
     max-width: 496px;
     margin-bottom: 8px; 
