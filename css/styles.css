@@ -31,10 +31,13 @@ address{
     padding-right: 156px;
     margin-right: auto;
     margin-left: auto;
-    padding: 0 15px 0 15px
+    padding: 0 15px 0 15px;
 }
 
-
+.body-top{
+    width: 1158px;
+    padding: 0 15px 0 15px;
+}
 .container {
  max-width: 1128px ;
     padding: 0 15px 0 15px;
