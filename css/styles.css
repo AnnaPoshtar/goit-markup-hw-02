@@ -104,10 +104,11 @@ position: absolute;
 }
 .features-item{
     width: calc((100% - 72px) / 4);
+    margin-bottom: 72px;
 }
 .portfolio-title{
-
-    margin-bottom: 72px;
+    margin-bottom: 8px;
+ 
 }
 .container-portfolio{
     padding: 32px 16px;
