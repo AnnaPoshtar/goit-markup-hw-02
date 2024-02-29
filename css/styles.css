@@ -33,7 +33,9 @@ address{
 }
 .container 
 { max-width: 1128px ;
-    padding-bottom: 15px; 
+    padding-left: 15px;
+    padding-right: 15px; 
+    width: 1158px;
     padding: 0 15px; 
     margin: 0 auto;
  }
