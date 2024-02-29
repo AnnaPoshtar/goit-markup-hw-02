@@ -71,6 +71,9 @@ address{
 .hero{
     padding: 188px 0 188px;
 }
+.portfolio-img{
+    width: calc((100% - 48px) / 3);
+}
 .visually-hidden {
 position: absolute;
      width: 1px;
