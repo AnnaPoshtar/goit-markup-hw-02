@@ -91,6 +91,10 @@ position: absolute;
     gap: 24px;
 
 }
+.header-menu-list{
+    display: flex;
+    gap: 40px;
+}
 .features-list{
     display: flex;
     gap: 24px; 
