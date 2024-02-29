@@ -91,6 +91,7 @@ a {
   .header-navigation{
     display: flex;
     align-items: center; 
+    padding: 24px 0 24px;
   }
   .header-logo{
     margin-right: 76px;
