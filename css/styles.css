@@ -1,44 +1,33 @@
 
-body { 
+.body { 
     font-family: "Roboto", sans-serif;
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF
 }
-p, h1, h2, h3, h4, h5, h6{
+.p, h1, h2, h3, h4, h5, h6{
     margin-top: 0;
     margin-bottom: 0;
 }
-a{
+.a{
     text-decoration: none;
     color: currentColor;
 }
-ul{
+.ul{
     list-style: none;
     margin-top: 0;
     margin-bottom: 0;
     padding-left: 0;
 }
-button{
+.button{
     cursor: pointer;
 }
-address{
+.address{
     font-style: normal;
 }
-.page-header-conteiner{
-    width: 1158px; 
-    padding-left: 156px;
-    padding-right: 156px;
-    margin-right: auto;
-    margin-left: auto;
-    padding: 0 15px 0 15px;
-}
 
-.body-top{
-    width: 1158px;
-    padding: 0 15px 0 15px;
-}
 .container {
+    width: 1158px; 
  max-width: 1128px ;
     padding: 0 15px 0 15px;
     margin: 0 auto;
