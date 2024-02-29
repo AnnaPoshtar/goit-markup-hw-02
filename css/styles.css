@@ -25,7 +25,13 @@ button{
 address{
     font-style: normal;
 }
-
+.container{
+    width: 1158px; 
+    padding-left: 156px;
+    padding-right: 156px;
+    margin-right: auto;
+    margin-left: auto;
+}
 .page-header-conteiner{
     width: 1158px; 
 }
