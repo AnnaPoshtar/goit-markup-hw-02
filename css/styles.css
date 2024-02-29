@@ -100,6 +100,9 @@ position: absolute;
 .features-list{
     display: flex;
     gap: 24px; 
+    width: calc((100% - 72px) / 4);
+
+    border-radius: 0 0 4px 4px;
 
 }
 .features-title{
