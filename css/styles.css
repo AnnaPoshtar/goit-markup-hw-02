@@ -40,6 +40,9 @@
     border-bottom: 1px solid #e7e9fc;
   
 }
+.header-menu-list{
+    padding: 24px 0 24px;
+}
 .header-soc-list{
     display: flex;
     gap: 40px;
@@ -140,9 +143,7 @@ position: absolute;
     border-top: none;
     margin-bottom: 8px;
 }
-.header-logo{
-    padding: 24px 0 24px;
-}
+
 .container-team{
     padding: 32px 0 32px;
     padding-top: 32px; 
