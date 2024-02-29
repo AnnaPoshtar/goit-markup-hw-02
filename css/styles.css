@@ -49,6 +49,9 @@
     border-bottom: 1px solid #e7e9fc ;
 
 }
+.container-featchers{
+    width: calc((100% - 72px) / 4);
+}
 .page-header-conteiner{
     display: flex;
     border-bottom: 1px solid #e7e9fc;
