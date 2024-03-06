@@ -168,6 +168,7 @@ width: calc((100% - 72px) / 4);
 }
 .portfolio-subtitle{
     width: calc((100% - 72px) / 4); 
+    margin-bottom: 72px;
 }
 .team-img{
     border-radius: 0px 0px 4px 4px;
