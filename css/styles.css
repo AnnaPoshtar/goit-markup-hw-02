@@ -220,10 +220,10 @@ position: absolute;
     display: flex;
     gap: 24px;
     width: calc((100% - 72px) / 4);
-    margin-bottom: 72px; 
+ 
 }
 .team-title{
- 
+    margin-bottom: 72px;
     margin-bottom: 8px;
 }
 .team-subtitle{
