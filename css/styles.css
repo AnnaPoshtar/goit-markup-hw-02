@@ -178,7 +178,7 @@ width: 1158px;
 }
 .features-item{
     margin-bottom: 72px;
-    width: calc((100% - 72px) / 4);
+
     padding-top: 120px;
      padding-bottom: 120px;
      margin-bottom: 8px;
@@ -186,6 +186,7 @@ width: 1158px;
 .features-subtitle{
     margin-bottom: 72px;
     margin-bottom: 8px;
+    width: calc((100% - 72px) / 4);
 }
 .portfolio-list{
 }
