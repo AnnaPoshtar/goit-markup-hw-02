@@ -273,7 +273,7 @@ position: absolute;
    
 }
 .portfolio-text{
-   
+    width: calc((100% - 48px) / 3);  
  
 }
 .portfolio-list{
@@ -281,7 +281,6 @@ position: absolute;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
-    width: calc((100% - 48px) / 3);
 }
 .portfolio-subtitle{
 
