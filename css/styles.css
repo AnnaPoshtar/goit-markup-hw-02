@@ -254,8 +254,7 @@ position: absolute;
     border-radius: 0px 0px 4px 4px;
 }
 
-.portfolio-title{
-    width: calc((100% - 48px) / 3); 
+.portfolio-title{ 
 }
 .portfolio-subtitle{   
 }
@@ -282,7 +281,7 @@ position: absolute;
     row-gap: 48px;
 }
 .portfolio-subtitle{
-
+    margin-bottom: 72px;
 }
 .portfolio-item{
  
