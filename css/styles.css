@@ -68,6 +68,9 @@ a {
     display: flex;
     gap: 40px;
 }
+.header-menu-link{
+    padding: 24px 0 ;
+}
 .header-menu-item{
     padding: 24px 0 24px;
 }
