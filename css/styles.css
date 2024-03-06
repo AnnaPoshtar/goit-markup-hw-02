@@ -152,7 +152,7 @@ width: 1158px;
  
 }
 .container-featchers{
-    margin-bottom: 8px;
+
 }
 .features-subtitle{
 
@@ -177,14 +177,14 @@ width: 1158px;
 
 
 .team-item-top{
-    width: calc((100% - 72px) / 4);   
+ 
 }
 .features-title{
-
+    margin-bottom: 72px;
 
 }
 .team-subtitle{
-    margin-bottom: 72px;
+  
 
 }
 .features-item{
@@ -222,16 +222,16 @@ position: absolute;
     width: calc((100% - 72px) / 4);
 }
 .team-title{
-    margin-bottom: 72px;
+    
     margin-bottom: 8px;
 }
 .team-subtitle{
     margin-bottom: 8px;
-    margin-bottom: 72px;
+  
 
 }
  .team-item{
-    margin-bottom: 72px;
+
 
  }
 .container-team{
