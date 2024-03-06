@@ -171,11 +171,16 @@ width: calc((100% - 72px) / 4);
 .features-title{
     margin-bottom: 8px;
 }
+.team-subtitle{
+    margin-bottom: 72px;
+    width: calc((100% - 72px) / 4);
+}
 .features-item{
     margin-bottom: 72px;
     width: calc((100% - 72px) / 4);
     padding-top: 120px;
      padding-bottom: 120px;
+     margin-bottom: 8px;
 }
 .features-subtitle{
     margin-bottom: 8px;
@@ -233,11 +238,10 @@ position: absolute;
 }
 .team{
     padding: 120px 0 120px;
- padding: 32px 0;
 }
 .team-comtainer{
     padding: 32px 0;
-    padding: 32px 0;
+ 
 }
 .team-item-top{
     margin-bottom: 8px;
