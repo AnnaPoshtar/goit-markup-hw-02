@@ -148,6 +148,7 @@ width: 1158px;
 }
 .features{
     padding: 120px 0;
+    width: calc((100% - 72px) / 4);
 }
 
 .features-item-text{
