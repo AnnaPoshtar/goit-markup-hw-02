@@ -201,7 +201,7 @@ width: 1158px;
 }
 .team-img{
     border-radius: 0px 0px 4px 4px;
-    margin-bottom: 72px;
+ 
 }
 .visually-hidden {
 position: absolute;
@@ -220,7 +220,7 @@ position: absolute;
     display: flex;
     gap: 24px;
     width: calc((100% - 72px) / 4);
-   
+    margin-bottom: 72px; 
 }
 .team-title{
  
