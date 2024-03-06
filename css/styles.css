@@ -223,12 +223,12 @@ position: absolute;
  
 }
 .team-title{
-    width: calc((100% - 72px) / 4);
+ 
     margin-bottom: 8px;
 }
 .team-subtitle{
     margin-bottom: 8px;
-  
+    width: calc((100% - 72px) / 4);
 
 }
  .team-item{
