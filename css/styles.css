@@ -141,7 +141,7 @@ width: 1158px;
 }
 .features{
  padding: 120px 0 120px;
- margin-bottom: 8px;
+
 }
 
 .team{
@@ -149,7 +149,7 @@ width: 1158px;
 }
 
 .features-item-text{
- 
+    margin-bottom: 8px;
 }
 .container-featchers{
 
