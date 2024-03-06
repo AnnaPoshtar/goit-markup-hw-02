@@ -151,6 +151,9 @@ width: 1158px;
 .features-item-text{
  
 }
+.container-featchers{
+    margin-bottom: 8px;
+}
 .features-subtitle{
 
     border-radius: 0 0 4px 4px;
@@ -186,7 +189,7 @@ width: 1158px;
 }
 .features-item{
     margin-bottom: 72px;
-    margin-bottom: 8px;
+  
     padding-top: 120px;
      padding-bottom: 120px;
 
