@@ -158,6 +158,9 @@ width: calc((100% - 72px) / 4);
 .features-item{
     margin-bottom: 72px;
 }
+.features-subtitle{
+    margin-bottom: 8px;
+}
 .portfolio-list{
 }
 .portfolio-img{
