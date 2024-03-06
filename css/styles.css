@@ -167,11 +167,11 @@ width: 1158px;
 .features-list{
     display: flex;
     gap: 24px; 
- 
+    width: calc((100% - 72px) / 4);
 }
 .features-title{
     margin-bottom: 8px;
-    width: calc((100% - 72px) / 4);
+
 }
 .team-subtitle{
     margin-bottom: 72px;
