@@ -255,10 +255,10 @@ position: absolute;
 }
 
 .portfolio-title{
-    width: calc((100% - 48px) / 3);
+ 
 }
 .portfolio-subtitle{
-   
+    width: calc((100% - 48px) / 3);  
 }
 
 .container-portfolio{
