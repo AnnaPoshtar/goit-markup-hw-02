@@ -173,7 +173,7 @@ width: calc((100% - 72px) / 4);
 }
 .team-subtitle{
     margin-bottom: 72px;
-    width: calc((100% - 72px) / 4);
+    flex-basis: calc((100% - 72px) / 4);
 }
 .features-item{
     margin-bottom: 72px;
