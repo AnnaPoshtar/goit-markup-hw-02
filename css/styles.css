@@ -137,7 +137,9 @@ a {
     border-radius: 0 0 4px 4px;
     
 }
-
+.team-text{
+    margin-bottom: 72px;  
+}
 .features-list{
     display: flex;
     gap: 24px; 
