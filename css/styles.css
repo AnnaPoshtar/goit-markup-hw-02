@@ -171,6 +171,7 @@ width: 1158px;
 }
 .features-title{
     margin-bottom: 8px;
+    width: calc((100% - 72px) / 4);
 }
 .team-subtitle{
     margin-bottom: 72px;
@@ -186,9 +187,10 @@ width: 1158px;
 .features-subtitle{
     margin-bottom: 72px;
     margin-bottom: 8px;
-    width: calc((100% - 72px) / 4);
+
 }
 .portfolio-list{
+
 }
 .portfolio-img{
 
