@@ -272,8 +272,7 @@ position: absolute;
 
 }
 .portfolio-text{
-    margin-bottom: 8px;
-    margin-bottom: 72px;
+
  
 }
 .portfolio-list{
@@ -281,7 +280,8 @@ position: absolute;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
-
+    margin-bottom: 8px;
+    margin-bottom: 72px;
 }
 .portfolio-subtitle{
    
