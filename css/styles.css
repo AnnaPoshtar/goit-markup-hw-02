@@ -125,6 +125,9 @@ width: 1158px;
     max-width: 496px;
 
 }
+.body-top{
+    margin-bottom: 8px;
+}
 .hero-order-btn{
     display: block;
     min-width: 169px;
