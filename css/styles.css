@@ -216,7 +216,10 @@ position: absolute;
     margin-bottom: 72px;
     width: calc((100% - 72px) / 4);
 }
-
+ .team-item{
+    margin-bottom: 72px;
+    width: calc((100% - 72px) / 4);
+ }
 .container-team{
     padding-top: 32px; 
      padding-bottom: 32px;
