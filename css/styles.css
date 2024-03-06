@@ -172,6 +172,9 @@ width: 1158px;
 .container-featchers{
     margin-bottom: 8px;
 }
+.team-item-top{
+    width: calc((100% - 72px) / 4);   
+}
 .features-title{
     margin-bottom: 8px;
 
