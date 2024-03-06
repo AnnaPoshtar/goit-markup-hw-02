@@ -166,6 +166,9 @@ width: 1158px;
     gap: 24px; 
 
 }
+.features-item{
+    width: calc((100% - 72px) / 4); 
+}
 .container-featchers{
     margin-bottom: 8px;
 }
