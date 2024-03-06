@@ -228,11 +228,11 @@ position: absolute;
 }
 .team-subtitle{
     margin-bottom: 8px;
-    width: calc((100% - 72px) / 4);
+  
 
 }
  .team-item{
-  
+    width: calc((100% - 72px) / 4);
     margin-bottom: 72px;
  }
 .container-team{
