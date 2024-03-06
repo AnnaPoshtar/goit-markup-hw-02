@@ -243,11 +243,11 @@ position: absolute;
 }
 .team{
     padding: 120px 0 120px;
-    margin-bottom: 72px;
+  
 }
-.team-comtainer{
+.team-conrainer{
     padding: 32px 0;
- 
+    margin-bottom: 72px;
 }
 .team-item-top{
     margin-bottom: 8px;
