@@ -165,6 +165,8 @@ width: calc((100% - 72px) / 4);
 .features-item{
     margin-bottom: 72px;
     width: calc((100% - 72px) / 4);
+    padding-top: 120px;
+     padding-bottom: 120px;
 }
 .features-subtitle{
     margin-bottom: 8px;
