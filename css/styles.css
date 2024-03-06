@@ -239,10 +239,11 @@ position: absolute;
     padding-top: 32px; 
      padding-bottom: 32px;
      padding: 32px 0;
-     margin-bottom: 72px;
+     
 }
 .team{
     padding: 120px 0 120px;
+    margin-bottom: 72px;
 }
 .team-comtainer{
     padding: 32px 0;
