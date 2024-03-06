@@ -172,7 +172,6 @@ width: 1158px;
 }
 .features-item{
     width: calc((100% - 72px) / 4); 
-    margin-bottom: 8px;
 }
 
 
@@ -181,7 +180,7 @@ width: 1158px;
 }
 .features-title{
     margin-bottom: 72px;
-
+    margin-bottom: 8px;
 }
 .team-subtitle{
    
