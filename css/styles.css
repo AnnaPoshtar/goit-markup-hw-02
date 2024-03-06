@@ -164,6 +164,7 @@ width: calc((100% - 72px) / 4);
 }
 .features-item{
     margin-bottom: 72px;
+    width: calc((100% - 72px) / 4);
 }
 .features-subtitle{
     margin-bottom: 8px;
