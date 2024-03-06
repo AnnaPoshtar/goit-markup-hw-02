@@ -183,6 +183,7 @@ width: calc((100% - 72px) / 4);
      margin-bottom: 8px;
 }
 .features-subtitle{
+    margin-bottom: 72px;
     margin-bottom: 8px;
 }
 .portfolio-list{
