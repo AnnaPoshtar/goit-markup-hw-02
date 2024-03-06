@@ -78,6 +78,9 @@ a {
     display: flex;
     gap: 40px;
 }
+.team{
+    padding: 120px 0;
+}
 .header-logic{
     padding: 24px 0 24px;
     padding: 0 15px 0 15px;
