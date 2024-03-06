@@ -269,11 +269,11 @@ position: absolute;
 .portfolio{
     padding-top: 120px;
      padding-bottom: 120px; 
-     margin-bottom: 8px;
-    margin-bottom: 72px;
+
 }
 .portfolio-text{
-
+    margin-bottom: 8px;
+    margin-bottom: 72px;
  
 }
 .portfolio-list{
