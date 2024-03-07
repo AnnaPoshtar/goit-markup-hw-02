@@ -156,6 +156,9 @@ width: 1158px;
 
 }
 .features-subtitle{
+    margin-bottom: 8px;
+}
+.features-subtitle{
   
     border-radius: 0 0 4px 4px;
     margin-bottom: 72px;
@@ -178,7 +181,7 @@ width: 1158px;
 .features-item{
     padding-top: 120px;
      padding-bottom: 120px;
-     margin-bottom: 8px;
+
 }
 
 .portfolio-subtitle{
@@ -214,7 +217,9 @@ position: absolute;
     margin-bottom: 8px;  
    
   }
-
+.team-subtitle{
+    margin-bottom: 72px;
+}
 
  .team-item{
 
