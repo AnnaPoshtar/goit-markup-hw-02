@@ -180,9 +180,10 @@ width: 1158px;
 
 }
 .features-subtitle{
-    margin-bottom: 8px;  
+
 }
 .features-item{
+    margin-bottom: 8px;
     padding-top: 120px;
      padding-bottom: 120px;
      width: calc((100% - 72px) / 4);
