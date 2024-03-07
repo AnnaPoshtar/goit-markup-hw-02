@@ -235,6 +235,9 @@ width: 1158px;
 .container-portfolio{
  
 }
+.portfolio-text{
+    width: calc((100% - 48px) / 3);
+}
 .portfolio-item-top{   
 }
 
