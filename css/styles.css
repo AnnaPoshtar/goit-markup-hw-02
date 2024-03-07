@@ -164,7 +164,6 @@ width: 1158px;
         
        }
        .features-subtitle{
-        margin-bottom: 8px;
       border-radius: 0 0 4px 4px;
      }
 
@@ -179,7 +178,9 @@ width: 1158px;
  padding: 120px 0 120px;
 
 }
-
+.features-subtitle{
+    margin-bottom: 8px;
+}
 .features-item{
     padding-top: 120px;
      padding-bottom: 120px;
