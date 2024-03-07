@@ -245,12 +245,12 @@ position: absolute;
 
 .portfolio-subtitle{
  
+  
+ }
+.portfolio-item{
     margin-bottom: 8px;
     margin-bottom: 72px;
     width: calc((100% - 48px) / 3);
- }
-.portfolio-item{
- 
 }
 .footer-logo-color{
     display: inline-block;
