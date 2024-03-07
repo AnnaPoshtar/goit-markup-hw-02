@@ -150,6 +150,7 @@ width: 1158px;
         clip-path: inset(100%);
         clip: rect(0000);
          overflow: hidden;
+         margin-bottom: 8px;
        
     }
     .visually-hidden {
@@ -172,14 +173,13 @@ width: 1158px;
     gap: 24px; 
    }
    .features-item-text{
-    margin-bottom: 8px;
 }
 .features{
  padding: 120px 0 120px;
 
 }
 .features-subtitle{
-    margin-bottom: 8px;
+   
 }
 .features-item{
     padding-top: 120px;
