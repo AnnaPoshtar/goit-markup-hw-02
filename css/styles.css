@@ -178,6 +178,7 @@ position: absolute;
     clip-path: inset(100%);
     clip: rect(0000);
      overflow: hidden;
+     margin-bottom: 8px;
 }
 .team{
     padding: 32px 0;
