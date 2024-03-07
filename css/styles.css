@@ -144,9 +144,10 @@ width: 1158px;
 }
 
 .features-subtitle{
+    margin-bottom: 8px;
    border-radius: 0 0 4px 4px;
 
-    margin-bottom: 8px;
+ 
 }
 
 .features-list{
