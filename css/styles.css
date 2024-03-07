@@ -229,14 +229,15 @@ position: absolute;
     row-gap: 48px;
    
 }
-.portfolio-subtitle{
+.portfolio-title{ 
     margin-bottom: 72px;
+}
+.portfolio-subtitle{
+
     margin-bottom: 8px;
  
  }
-.portfolio-title{ 
-  
-}
+
 .portfolio{
     padding-top: 120px;
      padding-bottom: 120px; 
