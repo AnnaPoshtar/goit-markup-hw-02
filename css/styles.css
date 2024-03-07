@@ -223,15 +223,10 @@ position: absolute;
 .team-list{
     display: flex;
     gap: 24px;
-  
- 
-}
-.team-title{
- 
-    margin-bottom: 8px;
-}
+  }
+
 .team-subtitle{
-    margin-bottom: 8px;
+   
   
 
 }
