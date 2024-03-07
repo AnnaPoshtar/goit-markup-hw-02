@@ -213,7 +213,7 @@ position: absolute;
  
 }
 .portfolio-title{ 
-
+    width: calc((100% - 48px) / 3);
 }
 .portfolio{
     padding-top: 120px;
@@ -225,7 +225,7 @@ position: absolute;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
-    width: calc((100% - 48px) / 3);
+
 }
 
 .container-portfolio{
