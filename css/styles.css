@@ -206,11 +206,13 @@ position: absolute;
     display: flex;
     gap: 24px;
   }
-
+.team-subtitle{
+    margin-bottom: 72px; 
+}
 .team-subtitle{
    
     margin-bottom: 8px;  
-    margin-bottom: 72px; 
+   
   }
  .team-item{
 
@@ -231,7 +233,7 @@ position: absolute;
 
 }
 .team-item-top{
-    margin-bottom: 8px;
+  
     border-radius: 0px 0px 4px 4px;
 }
 .team-title{
