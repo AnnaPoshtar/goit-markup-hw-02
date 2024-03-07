@@ -221,7 +221,7 @@ position: absolute;
 
 }
 .portfolio-title{ 
-    margin-bottom: 72px;
+
 }
 .portfolio{
     padding-top: 120px;
@@ -229,6 +229,7 @@ position: absolute;
 
 }
 .portfolio-list{
+    margin-bottom: 72px;
     display: flex;
     flex-wrap: wrap;
     column-gap: 24px;
