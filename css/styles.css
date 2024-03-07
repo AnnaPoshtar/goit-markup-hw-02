@@ -180,6 +180,10 @@ position: absolute;
      overflow: hidden;
    
 }
+.team-subtitle{
+    margin-bottom: 8px; 
+ 
+   }
 .team{
     padding: 32px 0;
     padding: 120px 0 120px;
@@ -191,10 +195,7 @@ position: absolute;
     display: flex;
     gap: 24px;
   }
-  .team-subtitle{
-    margin-bottom: 8px; 
- 
-   }
+  
    .team-text{
   
   }
