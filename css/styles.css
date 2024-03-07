@@ -221,14 +221,14 @@ position: absolute;
 
 }
 .portfolio-title{ 
-
+    margin-bottom: 8px;
+    margin-bottom: 72px;
     width: calc((100% - 48px) / 3);
 }
 .portfolio{
     padding-top: 120px;
      padding-bottom: 120px; 
-     margin-bottom: 8px;
-     margin-bottom: 72px;
+
 }
 .portfolio-list{
     display: flex;
