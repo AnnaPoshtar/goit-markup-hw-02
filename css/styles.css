@@ -164,16 +164,16 @@ width: 1158px;
         
        }
        .features-subtitle{
-        margin-bottom: 8px;
+       
       border-radius: 0 0 4px 4px;
-    
-    }
+     }
 
 .features-list{
     display: flex;
     gap: 24px; 
    }
    .features-item-text{
+    margin-bottom: 8px;
 }
 .features{
  padding: 120px 0 120px;
