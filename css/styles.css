@@ -206,14 +206,15 @@ position: absolute;
     display: flex;
     gap: 24px;
   }
-.team-subtitle{
-    margin-bottom: 72px; 
-}
-.team-subtitle{
+  .team-subtitle{
    
     margin-bottom: 8px;  
    
   }
+.team-subtitle{
+    margin-bottom: 72px; 
+}
+
  .team-item{
 
  }
