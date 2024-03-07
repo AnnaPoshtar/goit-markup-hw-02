@@ -168,11 +168,11 @@ width: 1158px;
 
 
 .visually-hidden {
-    margin-bottom: 8px;
 position: absolute;
      width: 1px;
     height: 1px;
     margin: -1px;
+    margin-bottom: 8px;
     border: 0;
     padding: 0;
     white-space: nowrap;
