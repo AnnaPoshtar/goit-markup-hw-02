@@ -218,17 +218,13 @@ position: absolute;
     
     margin-bottom: 72px;
 }
-.portfolio-item{
-    display: flex;
-    width: calc((100% - 48px) / 3); 
-}
 .portfolio-list{
-
-    display: flex;
+   display: flex;
+   width: calc((100% - 48px) / 3);
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
-   
+  
 }
 .portfolio-title{ 
     margin-bottom: 72px;
