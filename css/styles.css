@@ -181,14 +181,14 @@ position: absolute;
    
 }
 .team-subtitle{
-
+    margin-bottom: 8px;
  }
 .team{
     padding: 32px 0;
     padding: 120px 0 120px;
 }
 .team-conrainer{
-    margin-bottom: 8px;
+    
     padding: 32px 0;
 }
 .team-list{
