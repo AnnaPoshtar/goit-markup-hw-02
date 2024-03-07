@@ -233,10 +233,10 @@ width: 1158px;
     margin-bottom: 72px;
 }
 .container-portfolio{
-    width: calc((100% - 48px) / 3);
+ 
 }
 .portfolio-item-top{   
-  
+    width: calc((100% - 48px) / 3);
 }
 
 .portfolio-list{
