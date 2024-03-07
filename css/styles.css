@@ -193,9 +193,7 @@ width: 1158px;
 .container-featchers{
 }
 
-.team-subtitle{
-    margin-bottom: 8px;
- }
+
  .team-title{
     margin-bottom: 72px;  
 }
@@ -216,6 +214,9 @@ width: 1158px;
   }
   .team-img{
     border-radius: 0px 0px 4px 4px;
+ }
+ .team-subtitle{
+    margin-bottom: 8px;
  }
  .team-item{
 
