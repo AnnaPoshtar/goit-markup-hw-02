@@ -226,16 +226,16 @@ position: absolute;
 .portfolio{
     padding-top: 120px;
      padding-bottom: 120px; 
-
+     margin-bottom: 8px;
+     margin-bottom: 72px;
+     width: calc((100% - 48px) / 3);
 }
 .portfolio-list{
     display: flex;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
-    margin-bottom: 8px;
-    margin-bottom: 72px;
-    width: calc((100% - 48px) / 3);
+
 }
 
 .container-portfolio{
