@@ -221,7 +221,8 @@ position: absolute;
 
 }
 .portfolio-title{ 
-    margin-bottom: 72px;
+
+    width: calc((100% - 48px) / 3);
 }
 .portfolio{
     padding-top: 120px;
@@ -244,9 +245,10 @@ position: absolute;
 }
 
 .portfolio-subtitle{
+    margin-bottom: 72px;
     margin-bottom: 8px;
     margin-bottom: 72px;
-    width: calc((100% - 48px) / 3);
+  
  }
 .portfolio-item{
  
