@@ -211,9 +211,11 @@ position: absolute;
 }
 .team-title{
  
+}.container-portfolio{
+    width: calc((100% - 48px) / 3);
 }
 .portfolio-title{ 
-    width: calc((100% - 48px) / 3);
+
 }
 .portfolio{
     padding-top: 120px;
