@@ -229,8 +229,7 @@ position: absolute;
 
 }
  .team-item{
-    margin-bottom: 72px; 
-    margin-bottom: 8px;
+
  }
 .container-team{
     padding-top: 32px; 
@@ -251,7 +250,10 @@ position: absolute;
     margin-bottom: 8px;
     border-radius: 0px 0px 4px 4px;
 }
-
+.team-title{
+    margin-bottom: 72px; 
+    margin-bottom: 8px;
+}
 .portfolio-title{ 
     margin-bottom: 72px;
 }
