@@ -152,6 +152,16 @@ width: 1158px;
          overflow: hidden;
        
     }
+    .visually-hidden {
+        white-space: nowrap;
+           clip-path: inset(100%);
+           clip: rect(0, 0, 0 ,0);
+           overflow: hidden;
+         }
+         .section {
+           padding-top: 188px;
+           padding-bottom: 188px;
+       }
 .features-list{
  
     display: flex;
@@ -265,16 +275,7 @@ width: 1158px;
     padding: 100px 0 100px;
 }
 
-.visually-hidden {
- white-space: nowrap;
-    clip-path: inset(100%);
-    clip: rect(0, 0, 0 ,0);
-    overflow: hidden;
-  }
-  .section {
-    padding-top: 188px;
-    padding-bottom: 188px;
-}
+
  
   
 .header-logo {
