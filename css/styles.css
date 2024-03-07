@@ -140,6 +140,7 @@ width: 1158px;
     border-radius: 4px; 
 }
 .visually-hidden {
+    margin-bottom: 8px;
     position: absolute;
          width: 1px;
         height: 1px;
@@ -150,7 +151,6 @@ width: 1158px;
         clip-path: inset(100%);
         clip: rect(0000);
          overflow: hidden;
-         margin-bottom: 8px;
        
     }
     .visually-hidden {
