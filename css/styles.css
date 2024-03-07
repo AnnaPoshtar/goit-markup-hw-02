@@ -206,6 +206,9 @@ position: absolute;
     display: flex;
     gap: 24px;
   }
+  .portfolio-subtitle{
+    margin-bottom: 8px;
+ }
   .team-subtitle{
    
     margin-bottom: 8px;  
@@ -216,9 +219,7 @@ position: absolute;
  .team-item{
 
  }
- .portfolio-subtitle{
-    margin-bottom: 8px;
- }
+
 .container-team{
     padding-top: 32px; 
      padding-bottom: 32px;
