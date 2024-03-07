@@ -211,12 +211,13 @@ position: absolute;
     margin-bottom: 8px;  
    
   }
-.team-subtitle{
-    margin-bottom: 72px; 
-}
+
 
  .team-item{
 
+ }
+ .portfolio-subtitle{
+    margin-bottom: 8px;
  }
 .container-team{
     padding-top: 32px; 
