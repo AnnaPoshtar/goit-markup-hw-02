@@ -227,15 +227,15 @@ position: absolute;
 .portfolio{
     padding-top: 120px;
      padding-bottom: 120px; 
-   
+     margin-bottom: 8px;
+     margin-bottom: 72px;
 }
 .portfolio-list{
     display: flex;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
-    margin-bottom: 8px;
-    margin-bottom: 72px;
+
 }
 
 .container-portfolio{
