@@ -225,6 +225,7 @@ position: absolute;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
+    width: calc((100% - 48px) / 3);
 }
 
 .container-portfolio{
@@ -237,7 +238,7 @@ position: absolute;
 .portfolio-subtitle{
     margin-bottom: 8px;
     margin-bottom: 72px;
-    width: calc((100% - 48px) / 3);
+
  }
 .portfolio-item{
  
