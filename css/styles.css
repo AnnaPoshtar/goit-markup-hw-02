@@ -185,10 +185,10 @@ width: 1158px;
 }
 
 .team-conrainer{
-    margin-bottom: 72px; 
+ 
 }
 .team-subtitle{
-    margin-bottom: 72px;
+
 
 }
 .features-item{
@@ -229,8 +229,8 @@ position: absolute;
 
 }
  .team-item{
-  
-
+    margin-bottom: 72px; 
+    margin-bottom: 8px;
  }
 .container-team{
     padding-top: 32px; 
