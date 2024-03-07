@@ -248,9 +248,10 @@ width: 1158px;
 .portfolio{
     padding-top: 120px;
      padding-bottom: 120px; 
-     width: calc((100% - 48px) / 3);
+
 }
 .portfolio-img{
+    width: calc((100% - 48px) / 3);  
 }
 
 .portfolio-subtitle{
