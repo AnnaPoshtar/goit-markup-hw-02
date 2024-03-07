@@ -235,9 +235,11 @@ width: 1158px;
 .portfolio-title-top{ 
     margin-bottom: 72px;
 }
-
-.portfolio-item-top{   
+.container-portfolio{
     width: calc((100% - 48px) / 3);
+}
+.portfolio-item-top{   
+  
 }
 
 .portfolio-list{
