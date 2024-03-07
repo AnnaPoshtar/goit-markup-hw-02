@@ -238,7 +238,7 @@ position: absolute;
 }
 
 .container-portfolio{
-    margin-bottom: 72px;
+
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
@@ -246,7 +246,7 @@ position: absolute;
 }
 
 .portfolio-subtitle{
- 
+    margin-bottom: 72px;
   
  }
 .portfolio-item{
