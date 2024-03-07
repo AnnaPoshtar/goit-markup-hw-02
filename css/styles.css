@@ -148,23 +148,23 @@ width: 1158px;
  padding: 120px 0 120px;
 
 }
+.features-item{
+    padding-top: 120px;
+     padding-bottom: 120px;
+     width: calc((100% - 72px) / 4);
+    }
 .features-subtitle{
 
   border-radius: 0 0 4px 4px;
 }
 .container-featchers{
-    width: calc((100% - 72px) / 4);
 }
 .features-item-text{
 
 }
 .fe
 
-.features-item{
-    padding-top: 120px;
-     padding-bottom: 120px;
-     width: calc((100% - 72px) / 4);
-    }
+
 
 
 .visually-hidden {
