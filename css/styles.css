@@ -157,13 +157,17 @@ width: 1158px;
            clip-path: inset(100%);
            clip: rect(0, 0, 0 ,0);
            overflow: hidden;
-           margin-bottom: 8px;
          }
          .section {
            padding-top: 188px;
            padding-bottom: 188px;
         
        }
+       .features-subtitle{
+        margin-bottom: 8px;
+      border-radius: 0 0 4px 4px;
+    
+    }
 .features-list{
     display: flex;
     gap: 24px; 
@@ -174,10 +178,7 @@ width: 1158px;
  padding: 120px 0 120px;
 
 }
-.features-subtitle{
-  border-radius: 0 0 4px 4px;
 
-}
 .features-item{
     padding-top: 120px;
      padding-bottom: 120px;
