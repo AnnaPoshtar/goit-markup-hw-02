@@ -220,7 +220,8 @@ position: absolute;
 
 }
 .portfolio-title{ 
-
+    margin-bottom: 8px;
+    margin-bottom: 72px;
 }
 .portfolio{
     padding-top: 120px;
@@ -249,7 +250,7 @@ position: absolute;
   
  }
 .portfolio-item{
-    margin-bottom: 72px;
+    width: calc((100% - 48px) / 3);   
 }
 .footer-logo-color{
     display: inline-block;
