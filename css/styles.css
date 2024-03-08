@@ -308,6 +308,7 @@ letter-spacing: 0.02em;
 }
 .hero {
     background-color: #2e2f42 ;
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/img-name.jpeg);
 }
 .hero-title {
     color: #FFF;
