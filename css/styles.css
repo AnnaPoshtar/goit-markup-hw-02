@@ -253,6 +253,7 @@ width: 1158px;
     border-top: none;
     width: calc((100% - 48px) / 3);
     overflow: hidden;
+    position: relative;
 }
 .footer-logo-color{
     display: inline-block;
