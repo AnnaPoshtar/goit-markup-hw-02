@@ -162,8 +162,11 @@ width: 1158px;
          .section {
            padding-top: 188px;
            padding-bottom: 188px;
-        
-       }
+         }
+        .visually-hidden{
+            margin-bottom: 8px;
+        }
+     
        .features-subtitle{
       border-radius: 0 0 4px 4px;
      }
@@ -189,7 +192,7 @@ width: 1158px;
     }
 
 .container-featchers{
-    margin-bottom: 8px;
+
 }
 
 
