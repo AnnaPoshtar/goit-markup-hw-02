@@ -147,6 +147,7 @@ width: 1158px;
     height: 56px;
     border: none;
     border-radius: 4px; 
+    background-color: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .visually-hidden {
     position: absolute;
