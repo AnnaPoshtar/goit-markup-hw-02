@@ -342,14 +342,13 @@ font-style: normal;
 font-weight: 500;
 line-height: 1.20; 
 letter-spacing: 0.02em;
-
+margin-bottom: 8px;
 }
 .features-subtitle{
     max-width: 496px;
-    margin-bottom: 8px;
     width: calc((100% - 72px) / 4);
     border-radius: 0 0 4px 4px;
-    margin-bottom: 72px; 
+
 }
 .features-item-text {
     color:  #434455;
