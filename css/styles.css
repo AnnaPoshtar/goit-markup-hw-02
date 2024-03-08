@@ -245,9 +245,9 @@ width: 1158px;
 
 }
 .portfolio-text{
-    transform: translateY(0%);
 }
 .portfolio-subtitle{
+    transform: translateY(0%);
     margin-bottom: 8px;
  }
 .container-portfolio{
