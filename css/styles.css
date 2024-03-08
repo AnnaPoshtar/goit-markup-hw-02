@@ -220,14 +220,14 @@ width: 1158px;
     margin-bottom: 72px;
 }
 .portfolio-item-top{   
-    width: calc((100% - 48px) / 3);  
-  box-shadow: 250ms cubic-bezier(0.4, 0, 0.2, 1); 
+    width: calc((100% - 48px) / 3);   
 }
 .portfolio-list{
    display: flex;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
+    box-shadow: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .portfolio{
