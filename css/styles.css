@@ -242,12 +242,11 @@ width: 1158px;
 .portfolio{
     padding-top: 120px;
      padding-bottom: 120px; 
-
+     transform: translateY(0%);
 }
 .portfolio-text{
 }
 .portfolio-subtitle{
-    transform: translateY(0%);
     margin-bottom: 8px;
  }
 .container-portfolio{
