@@ -248,6 +248,11 @@ width: 1158px;
 .footer{
     padding: 100px 0 100px;
 }
+.container-footer{
+    display: flex;
+    align-items: baseline; 
+    margin-right: 120px;
+}
 .header-logo {
     color:    #4d5ae5;
  font-family: "Raleway", sans-serif;
