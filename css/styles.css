@@ -187,6 +187,16 @@ width: 1158px;
  padding: 120px 0 120px;
 
 }
+.features-icon{
+    display: flex;   
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    margin-bottom: 8px; 
+    
+}
 .features-item{
     padding-top: 120px;
      padding-bottom: 120px;
