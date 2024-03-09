@@ -97,6 +97,13 @@ a {
 .header-menu-list{
     display: flex;
     gap: 40px;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: -1px;
+    height: 4px; 
+    background-color: #404bbf;  
+    border-radius: 2px;
 }
 .header {
     display: flex;
@@ -113,13 +120,6 @@ a {
   }
   .header-logo{
     margin-right: 76px;
-    width: 100%;
-    position: absolute;
-    left: 0;
-    bottom: -1px;
-    height: 4px; 
-    background-color: #404bbf;  
-    border-radius: 2px;
 }
 .header-menu-list{
     display: flex;
