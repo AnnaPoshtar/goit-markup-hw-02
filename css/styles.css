@@ -75,7 +75,7 @@ a {
     
 }
 .header-soc-link{
-
+    transition :color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .header-menu-item{
     padding: 24px 0 24px;
@@ -151,11 +151,9 @@ width: 1158px;
 }
 .hero-order-btn{
     display: block;
-    min-width: 169px;
     height: 56px;
     border: none;
     border-radius: 4px; 
-    background-color: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .visually-hidden {
     position: absolute;
