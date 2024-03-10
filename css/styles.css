@@ -80,17 +80,6 @@ a {
 .header-menu-item{
     padding: 24px 0 24px;
 }
-.Studio::after{
-    content: 'WebStudio';
-    box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
-    width: 100%;
-    position: absolute;
-    left: 0;
-    bottom: -1px;
-    height: 4px; 
-    background-color: #404bbf;  
-    border-radius: 2px;
-}
 .header-soc-list{
     display: flex;
     gap: 40px;
@@ -106,7 +95,6 @@ a {
     padding: 24px 0 24px;
     padding: 0 15px 0 15px;
     border-bottom: 1px solid #e7e9fc ;
-    
 }
 .header-menu-list{
     display: flex;
@@ -133,6 +121,17 @@ a {
     display: flex;
     gap: 40px;
  
+}
+.header-logic::after{
+    content: 'header-logic';
+    box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: -1px;
+    height: 4px; 
+    background-color: #404bbf;  
+    border-radius: 2px;
 }
 .page-header-conteiner{
     display: flex;
