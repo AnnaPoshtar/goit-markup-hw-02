@@ -282,6 +282,9 @@ transition : color 250ms cubic-bezier(0.4, 0, 0.2, 1);
            padding-top: 188px;
            padding-bottom: 188px;
          }
+         .container-featchers{
+            border: 1px solid #8e8f99;
+         }
 .features{
     padding: 120px 0 120px;
 }
