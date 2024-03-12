@@ -358,6 +358,12 @@ letter-spacing: 0.02em;
      padding: 32px 0;
  
 }
+.team-icons{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+          
+}
 .team {
     margin-bottom: 72px;  
     background-color: #F4F4FD ;
