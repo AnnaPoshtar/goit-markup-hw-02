@@ -275,17 +275,11 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
         padding: 0;
         white-space: nowrap;
         clip-path: inset(100%);
-        clip: rect(0000);
+        clip: rect(0, 0, 0, 0);
          overflow: hidden;
        
     }
-    .visually-hidden {
-        
-        white-space: nowrap;
-           clip-path: inset(100%);
-           clip: rect(0, 0, 0 ,0);
-           overflow: hidden;
-         }
+
          .section {
            padding-top: 188px;
            padding-bottom: 188px;
@@ -424,7 +418,7 @@ letter-spacing: 0.02em;
     
 }
 .img-container-portfolio{
-    box-shadow: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    
 }
 .portfolio-container{
     position: relative;
@@ -461,7 +455,7 @@ margin-bottom: 8px;
 }
 .portfolio-item-top{
     width: calc((100% - 48px) / 3); 
-    box-shadow: 250ms cubic-bezier(0.4, 0, 0.2, 1);  
+    
 }
 .portfolio-subtitle {
     margin-bottom: 8px;
