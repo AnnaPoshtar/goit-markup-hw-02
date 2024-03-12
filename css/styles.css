@@ -77,6 +77,7 @@ width: 1158px;
     content: '';
     box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
     width: 100%;
+    padding: 120px 0 120px;
     display: block;
     position: absolute;
     left: 0;
@@ -193,11 +194,12 @@ transition : color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
 
 .hero {
+    background-position: center;
     padding: 188px 0 188px;
     background-color: #2e2f42 ;
     background-repeat: no-repeat;
     max-width: 1440px; 
-    background-position: center;
+  
     background-size: cover;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/img-name.jpeg);
 }
@@ -229,8 +231,6 @@ transition : color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     height: 56px;
     border: none;
     border-radius: 4px; 
-    align-items: center;
-    justify-content: center;
 }
 .hero-order-btn:hover{
     background-color: #404BBF;
