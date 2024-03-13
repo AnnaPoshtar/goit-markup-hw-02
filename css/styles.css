@@ -224,7 +224,7 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     background-color: GREY ;
     background-repeat: no-repeat;
     max-width: 1440px; 
-    background-image: linear-gradient(rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)), url(../images/hero/people-office\ 1-min\ \(3\).jpg) ;
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/hero/people-office\ 1-min\ \(3\).jpg) ;
    background-size: cover;
 }
 .hero-container{
@@ -433,7 +433,7 @@ letter-spacing: 0.02em;
     font-size: 16px; 
     position: absolute; 
     top: 0;
-    
+    left: 0;
     line-height: 1.5;
     letter-spacing: 0.02em;
      color: #f4f4fd;
