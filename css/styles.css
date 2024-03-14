@@ -403,6 +403,30 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;;
 }
+.team-item-soc{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+.team-list-soc{
+    width: 40px;
+    height: 40px;
+}
+.team-icon{
+    width: 100%;
+    height: 100%; 
+    background-color:#4d5ae5;
+    border-radius: 50%;
+    display: flex;  
+    align-items: center;  
+    justify-content: center;
+}
+.team-icon:hover{
+    background-color: #404bbf;
+}
+.team-icon:focus{
+    background-color: #404bbf;
+}
 .team-list {
     display: flex;
     gap: 24px;
