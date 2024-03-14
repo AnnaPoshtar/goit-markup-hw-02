@@ -222,6 +222,7 @@ h1,h2,h3,h4,h5,h6,p {
     background-color: #F4F4FD;
     border-radius: 4px;
     margin-bottom: 8px;
+    border: 1px solid #8e8f99;
   }
   
   .benefits-list-title {
@@ -295,7 +296,6 @@ h1,h2,h3,h4,h5,h6,p {
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
-    border: 1px solid #8e8f99;
   }
   
   .team-icon-list{
