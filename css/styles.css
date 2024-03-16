@@ -361,7 +361,7 @@ button {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/Dark-mobilebg.jpg);
+    url(../images/Dark-mobilebg@1x.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -389,7 +389,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/Dark-bg-tablet.jpg);
+      url(../images/Dark-bg-tablet@1.jpg);
   }
 }
 
@@ -410,7 +410,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/people-office\ -komp1.jpg);
+      url(../images/people-office\ -komp@1.jpg);
   }
 }
 @media screen and (min-resolution: 192dpi) and (min-width: 1158px) {
