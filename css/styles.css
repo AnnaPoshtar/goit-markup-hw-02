@@ -361,7 +361,7 @@ button {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/);
+    url(../images/Dark-mobilebg.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -378,7 +378,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/hero/dark-bgmobile@2x.jpg);
+      url(../images/Dark-bgmobile@2x.jpg);
   }
 }
 @media screen and (min-width: 768px) {
@@ -389,7 +389,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/hero/dark-bgtablet@1x.jpg);
+      url(../images/Dark-bg-tablet.jpg);
   }
 }
 
@@ -399,7 +399,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/hero/dark-bgtablet@2x.jpg);
+      url(../images/Dark-bgtablet1@2x.jpg);
   }
 }
 @media screen and (min-width: 1158px) {
@@ -410,7 +410,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/hero/people-office1destop@1x.jpg);
+      url(../images/people-office\ -komp1.jpg);
   }
 }
 @media screen and (min-resolution: 192dpi) and (min-width: 1158px) {
@@ -419,7 +419,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/hero/people-office1desktop@2x.jpg);
+      url(../images/people-office-komp@2x.jpg);
   }
 }
 .visually-hidden {
